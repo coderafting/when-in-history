@@ -1,0 +1,154 @@
+html,
+
+body {
+	font: 18px Montserrat, sans-serif;
+	line-height: 1.4em;
+  background: #FFFFFF;
+	color: #212121;
+	min-width: 300px;
+	max-width: 1000px;
+	margin: 0 auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	font-weight: 300;
+  padding: 5px 5px;
+}
+
+#content-body {
+  margin: 0 auto;
+  min-width: 300px;
+	max-width: 1000px;
+  min-height: 600px;
+  padding: 20px 30px;
+  border-radius: 5px;
+  background: #FAFAFA;
+  box-shadow: 0 4px 6px 0 #BDBDBD;
+}
+
+#side-bar {
+  margin: 0 auto;
+  min-width: 100px;
+	max-width: 800px;
+  min-height: 0;
+  padding: 10px;
+  border-radius: 5px;
+  background: #FAFAFA;
+  box-shadow: 0 1px 2px 0 #BDBDBD;
+}
+
+#article-title {
+  font: 22px Montserrat, sans-serif;
+  font-weight: 300;
+  color: #1B88FF;
+  }
+
+#dates {
+  color: #616161;
+  font: 15px Montserrat, sans-serif;
+  padding: 12px 0px 5px 0px;
+  }
+
+#human-dates {
+  color: #424242;
+  font: 15px Montserrat, sans-serif;
+  padding: 5px 0px 5px 0px;
+  }
+
+#no-result {
+  color: #795548;
+  font: 20px Montserrat, sans-serif;
+  padding: 5px 5px 5px 5px;
+  }
+
+#logo-section {
+  padding: 0px 0px 50px 0px;
+  }
+
+#search-section {
+  padding: 0px 0px 50px 0px;
+  }
+
+#result-section {
+  padding: 0px 0px 100px 0px;
+  }
+
+#page-body {
+  margin: 0 auto;
+  min-width: 300px;
+	max-width: 1000px;
+  min-height: 600px;
+  padding: 20px 30px;
+  border-radius: 5px;
+  background: #FFFFFF;
+  box-shadow: 0 4px 6px 0 #BDBDBD;
+}
+
+h1 {
+  color: #00695C;
+  font-size: 1.8em;
+}
+
+h2 {
+  color: #4E342E;
+  font-size: 1.5em;
+}
+
+h3 {
+  color: #424242;
+  font-size: 1.25em;
+}
+
+h4 {
+  color: #37474F;
+  font-size: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: #1976D2;
+}
+
+#footer {
+  color: #424242;
+  font-size: 0.8em;
+  padding: 10px 0px 10px 0px;
+}
+
+code {
+  color: #004D40;
+  font-family: monospace;
+}
+
+pre {
+    background: #f4f4f4;
+    border: 1px solid #f4f4f4;
+    border-left: 3px solid #8D6E63;
+    color: #004D40;
+    page-break-inside: avoid;
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1em 1.5em;
+    display: block;
+    word-wrap: break-word;
+}
+
+blockquote {
+  display: block;
+  background: #F5F1EF;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1em 1em;
+  max-width: 100%;
+  color: #212121;
+}
+
+iframe {
+  max-width: 100%;
+}
