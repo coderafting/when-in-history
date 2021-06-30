@@ -1,11 +1,11 @@
 # WhenInHistory
 
-[WhenInHistory](https://wheninhistory.com/) is a search engine for historical events. It presents search results in a form that humans can empathize with.
+[WhenInHistory](https://wheninhistory.herokuapp.com/) is a search engine for historical events. It presents search results in a form that humans can empathize with.
 
 ## Technical details
 
 ### The app
-[WhenInHistory](https://wheninhistory.com/) app is written in [ClojureScript](https://clojurescript.org/). It uses [re-frame](https://github.com/Day8/re-frame) and its logic flow at its core.
+[WhenInHistory](https://wheninhistory.herokuapp.com/) app is written in [ClojureScript](https://clojurescript.org/). It uses [re-frame](https://github.com/Day8/re-frame) and its logic flow at its core.
 
 ### Search Experience
 The current search experience is real-time (almost), as user types.
@@ -132,7 +132,7 @@ Please refer to the `effects` declaration of the **`wheninhistory.events/trigger
 ## Regarding open-source
 The code includes some API calls to log sessions and search inputs. In this context of API calls, some dummy texts have been put in the place of actual details, such as `token`.
 
-The live version of [WhenInHistory](https://wheninhistory.com/) may have an updated version of this open-sourced code.
+The live version of [WhenInHistory](https://wheninhistory.herokuapp.com/) may have an updated version of this open-sourced code.
 
 ## High-level TODOs
 - Fetch historical events from Wiki APIs.
