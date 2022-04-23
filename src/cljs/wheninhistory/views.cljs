@@ -105,7 +105,7 @@
                  :size "large"
                  :color "black"
                  :link true
-                 :onClick #(.open js/window "https://www.coderafting.com/#/about")}]
+                 :onClick #(.open js/window "https://coderafting.com/#/about")}]
        [sa/Icon]
        [sa/Icon {:name "github"
                  :size "large"

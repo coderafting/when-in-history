@@ -138,9 +138,9 @@ The live version of [WhenInHistory](https://wheninhistory.herokuapp.com/) may ha
 - Fetch historical events from Wiki APIs.
 
 ## Feedback/Discussions
-Github issues are a good way to discuss library related topics. I am also reachable via [CodeRafting](https://www.coderafting.com/).
+Github issues are a good way to discuss library related topics. I am also reachable via [CodeRafting](https://coderafting.com/).
 
 ## License
 Distributed under GNU General Public License v3.0.
 
-Copyright (c) 2020 [Amarjeet Yadav](https://www.coderafting.com/).
+Copyright (c) 2020 [Amarjeet Yadav](https://coderafting.com/).
